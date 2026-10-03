@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.npx/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker & Temp
+.docker/
+tmp/
+temp_execution/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
